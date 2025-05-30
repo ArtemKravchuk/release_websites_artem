@@ -5,7 +5,7 @@ body {
 
 }
 main{
-    
+    scroll-behavior:smooth
 }
 
 h1 {
